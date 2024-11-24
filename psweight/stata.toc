@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p psweight IPW- and CBPS-type propensity score reweighting, with various extensions Use psweight With STATA 18
