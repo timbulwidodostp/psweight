@@ -1,5 +1,7 @@
-d 'DEA': Data envelopment analysis
+d 'psweight': IPW- and CBPS-type propensity score reweighting, with various extensions Use psweight With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f lpsweight.mlib
+f psweight.ado
+f psweight.mata
+f psweight.sthlp
+f psweight_class.sthlp
