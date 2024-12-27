@@ -1,6 +1,8 @@
 # psweight
 IPW- and CBPS-type propensity score reweighting, with various extensions Use psweight With STATA 18
 
+https://www.youtube.com/watch?v=pP_ZlaY9rIU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
